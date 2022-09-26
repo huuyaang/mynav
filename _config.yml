@@ -105,9 +105,3 @@ theme: webstack
  # type: git
  # repository: git@github.com:huuyaang/nav.git
  # branch: main
-deploy:
-    type: ali-oss
-    region: oss-cn-hongkong
-    accessKeyId: LTAI5tN3DmeokXoGzksme4EE
-    accessKeySecret: 1AXXsqBRGyLxz4YzDgy7Z4lsslnHrh
-    bucket: mynav-alioss
